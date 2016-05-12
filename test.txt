@@ -1,3 +1,0 @@
-start
-this a test txt file
-end
